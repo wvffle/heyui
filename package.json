@@ -1,6 +1,6 @@
 {
   "name": "heyui",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "description": "UI Toolkit for Web, Vue2.0.",
   "main": "./dist/heyui.js",
   "module": "./dist/heyui.esm.js",
@@ -30,6 +30,7 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-vue": "^5.2.2",
     "headr": "0.0.4",
+    "hey-cli": "^2.7.1",
     "hey-log": "^0.0.8",
     "hey-utils": "^1.0.2",
     "less": "^3.9.0",
