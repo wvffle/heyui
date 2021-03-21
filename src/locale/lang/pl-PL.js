@@ -45,7 +45,7 @@ const lang = {
     },
     validation: {
       base: {
-        required: ' nie może być puste',
+        required: ' nie może być pusty',
         maxLen: " nie może zwierać więcej niż {value} znaków",
         minLen: " nie może zwierać mniej niż {value} znaków",
         max: ' nie może być większe niż {value}',
@@ -90,7 +90,7 @@ const lang = {
         august: 'sie',
         september: 'wrz',
         october: 'paź',
-        november: 'lis',
+        november: 'lip',
         december: 'gru'
       },
       weeks: {
